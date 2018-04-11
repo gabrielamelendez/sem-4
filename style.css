@@ -1,0 +1,14 @@
+<style>
+body{
+
+}
+.background-image{
+	background-image: url("images/backgroud image.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+	border:1px solid #000;
+	text-align: center;
+
+}
+</style>
